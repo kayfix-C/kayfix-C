@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayfix-C
-- 👀 I’m interested in high-level languages
+- 👀 I’m interested in backend devops
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Python and C
 - 📫 How to reach me https://wa.me/message/BS5OAJX3WXUMC1
